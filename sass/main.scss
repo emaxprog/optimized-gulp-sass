@@ -1,7 +1,7 @@
 @import "bourbon";
 @import "vars";
 //Load Libs SASS
-@import "app/libs/animate/animate";
+@import "app/libs/animate/animate.scss";
 
 *::-webkit-input-placeholder {
   color: #666;
